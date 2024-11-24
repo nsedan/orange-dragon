@@ -10,13 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.orangedragon"
+      "bundleIdentifier": "com.orangedragon.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.orangedragon.app"
     },
     "web": {
       "bundler": "metro",

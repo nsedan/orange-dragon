@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.example.orangedragon</string>
+          <string>com.orangedragon.app</string>
         </array>
       </dict>
     </array>
